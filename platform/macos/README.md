@@ -1,7 +1,7 @@
 # Platform: macOS
 
-[![Rust](https://github.com/rust-multiplatform/Compute-Engine-Template/actions/workflows/platform_macos.yml/badge.svg)](https://github.com/rust-multiplatform/Compute-Engine-Template/actions/workflows/platform_macos.yml)
-[![codecov](https://codecov.io/gh/rust-multiplatform/Compute-Engine-Template/branch/main/graph/badge.svg?token=XpGvuQVirP)](https://codecov.io/gh/rust-multiplatform/Compute-Engine-Template)
+[![Rust](https://github.com/rust-multiplatform/Compute-Engine-Example-Computing/actions/workflows/platform_macos.yml/badge.svg)](https://github.com/rust-multiplatform/Compute-Engine-Example-Computing/actions/workflows/platform_macos.yml)
+[![codecov](https://codecov.io/gh/rust-multiplatform/Compute-Engine-Example-Computing/branch/main/graph/badge.svg?token=XpGvuQVirP)](https://codecov.io/gh/rust-multiplatform/Compute-Engine-Example-Computing)
 
 This is the platform-specific project for the platform macOS.  
 Make sure to check the shared crate as we depend on it.

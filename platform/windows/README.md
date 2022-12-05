@@ -1,7 +1,7 @@
 # Platform: Windows
 
-[![Rust](https://github.com/rust-multiplatform/Compute-Engine-Template/actions/workflows/platform_windows.yml/badge.svg)](https://github.com/rust-multiplatform/Compute-Engine-Template/actions/workflows/platform_windows.yml)
-[![codecov](https://codecov.io/gh/rust-multiplatform/Compute-Engine-Template/branch/main/graph/badge.svg?token=XpGvuQVirP)](https://codecov.io/gh/rust-multiplatform/Compute-Engine-Template)
+[![Rust](https://github.com/rust-multiplatform/Compute-Engine-Example-Computing/actions/workflows/platform_windows.yml/badge.svg)](https://github.com/rust-multiplatform/Compute-Engine-Example-Computing/actions/workflows/platform_windows.yml)
+[![codecov](https://codecov.io/gh/rust-multiplatform/Compute-Engine-Example-Computing/branch/main/graph/badge.svg?token=XpGvuQVirP)](https://codecov.io/gh/rust-multiplatform/Compute-Engine-Example-Computing)
 
 This is the platform-specific project for the platform Windows.  
 Make sure to check the shared crate as we depend on it.
