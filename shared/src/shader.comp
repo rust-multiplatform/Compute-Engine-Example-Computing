@@ -1,0 +1,17 @@
+#version 450
+
+// 65536 invocations
+// Split into 1024 groups of 64 invocations
+// 64 * 1024 = 65536
+layout(local_size_x = 64, local_size_y = 1, local_size_z = 1) in;
+
+// Input data layout
+layout(set = 0, binding = 0) buffer InputBuffer { uint data[]; }
+buf;
+
+// Main function
+void main() {
+  uint idx = gl_GlobalInvocationID
+                 .x; // gl_GlobalInvocationID.x will be a value between 0-65536
+  buf.data[idx] *= 12; // the operation we want to perform on the data
+}
