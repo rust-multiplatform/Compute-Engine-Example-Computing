@@ -1,7 +1,5 @@
 # Rust Multi-Platform - Compute Engine Example: Computing
 
-> ⚠️ THIS IS A TEMPLATE. ⚠️
-
 This project is supported by the following platforms:
 
 - ✅ Platform: Windows
